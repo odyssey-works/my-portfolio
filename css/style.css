@@ -3,6 +3,7 @@
   height: auto;
   background-color: #7bd4c0;
   padding: 10px;
+  overflow: hidden;
 }
 #heading1 {
   font-size: 5em;
@@ -15,12 +16,10 @@
 .left {
   float: left;
   width: 45%;
-  background-color: #F00;
 }
 .right {
   float: right;
   width: 45%;
-  background-color: #00F;
 }
 .clear-element {
   clear: both;
