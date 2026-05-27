@@ -1,8 +1,8 @@
 .multi-bg {
   width: 100%;
-  background: #FFFFEE;
+  background-color: #7bd4c0;
 }
-#head1 {
+#heading1 {
   font-size: 5em;
   font-Weight: bold;
 }
