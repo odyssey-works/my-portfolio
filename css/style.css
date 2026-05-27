@@ -15,10 +15,12 @@
 .left {
   float: left;
   width: 45%;
+  background-color: #F00;
 }
 .right {
   float: right;
   width: 45%;
+  background-color: #00F;
 }
 .clear-element {
   clear: both;
