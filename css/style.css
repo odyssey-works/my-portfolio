@@ -1,5 +1,6 @@
-body {
-  background-color:#FF0000;
+.multi-bg-example {
+  width: 100%;
+  height: 400px;
 }
 #head1 {
   font-size: 100px;
