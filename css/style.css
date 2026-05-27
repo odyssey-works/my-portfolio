@@ -12,11 +12,6 @@
   font-size: 2em;
   font-Weight: bold;
 }
-img {
-  width: 100%;
-  border-radius: 8px;
-  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
-}
 .left {
   float-aligin: left;
   width: 45%;
@@ -24,4 +19,9 @@ img {
 .right {
   float-aligin: right;
   width: 45%;
+}
+img {
+  width: 100%;
+  border-radius: 8px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
 }
