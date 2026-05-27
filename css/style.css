@@ -13,11 +13,11 @@
   font-Weight: bold;
 }
 .left {
-  float-aligin: left;
+  float: left;
   width: 45%;
 }
 .right {
-  float-aligin: right;
+  float: right;
   width: 45%;
 }
 img {
