@@ -8,10 +8,12 @@
 #heading1 {
   font-size: 5em;
   font-Weight: bold;
+  margin: 10px;
 }
 .strong {
   font-size: 2em;
   font-Weight: bold;
+  margin: 5px;
 }
 .left {
   float: left;
