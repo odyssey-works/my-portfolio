@@ -20,6 +20,9 @@
   float: right;
   width: 45%;
 }
+.clear-element {
+  clear: both;
+}
 img {
   width: 100%;
   border-radius: 8px;
