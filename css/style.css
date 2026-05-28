@@ -1,35 +1,46 @@
+body {
+  background-color: #4b817f;
+  text-align: center;
+  color: #FFF;
+}
 .multi-bg {
-  width: 100%;
+  width: 80%;
   height: auto;
-  background-color: #7bd4c0;
-  padding: 10px;
+  text-align: left;
   overflow: hidden;
+  margin: 0 auto;
 }
 #heading1 {
   font-size: 5em;
-  font-Weight: bold;
-  margin: 10px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-Weight: 500;
+  line-height: 1.1em;
+  letter-spacing: 0em;
+  margin: 1em 0;
 }
 .strong {
   font-size: 2em;
-  font-Weight: bold;
+  font-Weight: nomal;
   margin: 5px;
 }
 .left {
   float: left;
-  width: 45%;
+  width: 33%;
   padding: 10px;
 }
 .right {
   float: right;
-  width: 45%;
+  width: 33%;
   padding: 10px;
 }
 .clear-element {
   clear: both;
 }
 img {
-  width: 80%;
+  width: 100%;
   border-radius: 8px;
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+}
+.multi-bottom-margin {
+  margin-bottom: 5em;
 }
